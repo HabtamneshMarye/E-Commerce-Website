@@ -12,6 +12,7 @@ const Signup = () => {
           <h1 className="mt-[90px] ml-[220px] font-bold text-[35px]" >
             Create an account
           </h1>
+ 
           <p className="mt-[25px] ml-[225px]">Enter your details below</p>
           <div>
             <input
